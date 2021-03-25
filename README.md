@@ -8,4 +8,4 @@ Method: identifiers→ SMILES (via PubChem) → API (Application programming int
 Output: another excel sheet with measured and predicted YSI;
 
 Pros: only need one identifier, fast (100 compounds/mins), filter out outliers;
-Cons: SMILES of trans-/cis- aren’t compatible with API; bizarre names and CAS cannot transfer to SMILES.
+Cons: bizarre names and CAS cannot transfer to SMILES.
